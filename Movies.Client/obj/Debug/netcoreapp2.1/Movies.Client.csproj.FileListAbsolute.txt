@@ -1,0 +1,12 @@
+D:\Tech\HttpClient\WorkShop\Movies.Client\bin\Debug\netcoreapp2.1\Movies.Client.deps.json
+D:\Tech\HttpClient\WorkShop\Movies.Client\bin\Debug\netcoreapp2.1\Movies.Client.runtimeconfig.json
+D:\Tech\HttpClient\WorkShop\Movies.Client\bin\Debug\netcoreapp2.1\Movies.Client.runtimeconfig.dev.json
+D:\Tech\HttpClient\WorkShop\Movies.Client\bin\Debug\netcoreapp2.1\Movies.Client.dll
+D:\Tech\HttpClient\WorkShop\Movies.Client\bin\Debug\netcoreapp2.1\Movies.Client.pdb
+D:\Tech\HttpClient\WorkShop\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.csprojAssemblyReference.cache
+D:\Tech\HttpClient\WorkShop\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.AssemblyInfoInputs.cache
+D:\Tech\HttpClient\WorkShop\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.AssemblyInfo.cs
+D:\Tech\HttpClient\WorkShop\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.csproj.CoreCompileInputs.cache
+D:\Tech\HttpClient\WorkShop\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.dll
+D:\Tech\HttpClient\WorkShop\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.pdb
+D:\Tech\HttpClient\WorkShop\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.genruntimeconfig.cache

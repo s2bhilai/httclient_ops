@@ -1,0 +1,17 @@
+D:\Tech\HttpClient\WorkShop\Movies.API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Tech\HttpClient\WorkShop\Movies.API\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Tech\HttpClient\WorkShop\Movies.API\bin\Debug\netcoreapp2.1\Movies.API.deps.json
+D:\Tech\HttpClient\WorkShop\Movies.API\bin\Debug\netcoreapp2.1\Movies.API.runtimeconfig.json
+D:\Tech\HttpClient\WorkShop\Movies.API\bin\Debug\netcoreapp2.1\Movies.API.runtimeconfig.dev.json
+D:\Tech\HttpClient\WorkShop\Movies.API\bin\Debug\netcoreapp2.1\Movies.API.dll
+D:\Tech\HttpClient\WorkShop\Movies.API\bin\Debug\netcoreapp2.1\Movies.API.pdb
+D:\Tech\HttpClient\WorkShop\Movies.API\obj\Debug\netcoreapp2.1\Movies.API.AssemblyInfoInputs.cache
+D:\Tech\HttpClient\WorkShop\Movies.API\obj\Debug\netcoreapp2.1\Movies.API.AssemblyInfo.cs
+D:\Tech\HttpClient\WorkShop\Movies.API\obj\Debug\netcoreapp2.1\Movies.API.csproj.CoreCompileInputs.cache
+D:\Tech\HttpClient\WorkShop\Movies.API\obj\Debug\netcoreapp2.1\Movies.API.RazorAssemblyInfo.cache
+D:\Tech\HttpClient\WorkShop\Movies.API\obj\Debug\netcoreapp2.1\Movies.API.RazorAssemblyInfo.cs
+D:\Tech\HttpClient\WorkShop\Movies.API\obj\Debug\netcoreapp2.1\Movies.API.RazorTargetAssemblyInfo.cache
+D:\Tech\HttpClient\WorkShop\Movies.API\obj\Debug\netcoreapp2.1\Movies.API.dll
+D:\Tech\HttpClient\WorkShop\Movies.API\obj\Debug\netcoreapp2.1\Movies.API.pdb
+D:\Tech\HttpClient\WorkShop\Movies.API\obj\Debug\netcoreapp2.1\Movies.API.genruntimeconfig.cache
+D:\Tech\HttpClient\WorkShop\Movies.API\obj\Debug\netcoreapp2.1\Movies.API.csprojAssemblyReference.cache
